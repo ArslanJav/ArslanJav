@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Arslan and I am a Graphic Designer and software developer
-- 👀 I am passionate about coding and love to solve problems 
-- 💻 I'm currently enrolled with codecademy to get certified as I am fully committed
+- 👋 Hi, I'm Arslan and I am a Digital Designer 
+- 👀 I am passionate about all things digital and love to solve problems 
+- 💻 I'm currently enrolled with codecademy gaining valuable skills
 - 🤝 Looking to network with other programmers/coders
-- 🎉 My 2021 goals is to aim for 50 contribution and create interactive and functional websites. 🚀 
+- 🎉 My 2021 goals is create functional websites and be a well rounded designer 🚀 
