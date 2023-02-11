@@ -1,5 +1,4 @@
 - 👋 Hi, I'm Arslan and I am a Digital Designer 
 - 👀 I am passionate about all things digital and love to solve problems 
-- 💻 I'm currently enrolled with codecademy gaining valuable skills
 - 🤝 Looking to network with other programmers/coders
-- 🎉 My 2022 goals is to create functional websites and be a well rounded designer 🚀 
+- 🎉 My 2023 goals is to push more projects onto my github 🚀 
